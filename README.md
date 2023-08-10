@@ -4,7 +4,7 @@ Hi,
 This is a simple Angular POC created by Abhishek Choubey. In this POC I started building Shopping website <br/>
 This is 4th build push for the Shopping website, for building this portal I am using Angular. <br/>
 
-<b>Highlights of 5th Push</b> <br/>
+<b>Highlights of 4th Push</b> <br/>
 Inside shared--->type---> created interface {for strongly typed}<br/>
 product.interface.ts<br/>
 order.interface.ts<br/>
